@@ -39,7 +39,7 @@ function App() {
             placeholder="Digite seu Nome COMPLETO" 
             value={nome} 
             onChange={(e) => setNome(e.target.value)} // Atualiza o estado
-          />
+          />;
         </Paragraph>
 
         <ButtonStyled onClick={handle_click}>Cadastrar!</ButtonStyled>

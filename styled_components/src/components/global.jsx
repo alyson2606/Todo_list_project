@@ -16,6 +16,6 @@ export const GlobalStyles = createGlobalStyle`
         background: linear-gradient(#fabfbf);
         align-items: center;
         justify-content: center;
-    }`
+    };`
 
     

@@ -23,4 +23,4 @@ export const Paragraph = styled.p`
     
     span{
        padding: 0px 0px 15px 15px;
-    }`
+    };`

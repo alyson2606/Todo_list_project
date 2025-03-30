@@ -6,6 +6,6 @@ export const ButtonStyled = styled.button`
     background-color: #d3d3d3;
     color: red;
     text-align: center;
-    margin: 20px 20px 0 20px
+    margin: 20px 20px 0 20px;
     
     `
